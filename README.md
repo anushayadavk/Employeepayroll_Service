@@ -1,1 +1,1 @@
-Ability to add a new Employee to the Payroll
+Ability to also add to payroll details when a new Employee is added to the Payroll
